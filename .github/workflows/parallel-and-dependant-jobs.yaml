@@ -1,4 +1,4 @@
-name: First Workflow
+name: Workflows with Parallel and Dependant Jobs
 on: [push]
 
 jobs:
